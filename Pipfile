@@ -7,8 +7,10 @@ name = "pypi"
 python-telegram-bot = "*"
 ipython = "*"
 requests = "*"
+flake8 = "*"
+pylint = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "*"
